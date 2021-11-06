@@ -1156,7 +1156,7 @@ span.lowerframe span
 #menu 
 {
 	background: rgb(165,81,81); /* Old browsers */
-	background: linear-gradient(top, rgba(165,81,81,1) 0%,rgba(147,59,59,1) 100%); /* W3C */
+	background: linear-gradient(to bottom, rgba(165,81,81,1) 0%,rgba(147,59,59,1) 100%); /* W3C */
 	border-top: 1px solid #641f1f;
 	border-bottom: 1px solid #641f1f;
 	margin: 0;
@@ -1645,7 +1645,7 @@ div#upper_section div.news form
 #footer_section div.frame
 {
 	background: rgb(165,81,81); /* Old browsers */
-	background: linear-gradient(top, rgba(165,81,81,1) 0%,rgba(147,59,59,1) 100%); /* W3C */
+	background: linear-gradient(to bottom, rgba(165,81,81,1) 0%,rgba(147,59,59,1) 100%); /* W3C */
 	-moz-box-shadow: 0px 0px 10px #000000;
 	-webkit-box-shadow: 0px 0px 10px #000000;
 	box-shadow: 0px 0px 10px #000000;

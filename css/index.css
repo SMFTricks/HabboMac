@@ -1162,7 +1162,7 @@ span.lowerframe span
 	margin: 0;
     font: bold 11px Arial;
     overflow: hidden;
-	height: 30px;
+	min-height: 30px;
 	width: auto;
 	padding: 5px;
 }
